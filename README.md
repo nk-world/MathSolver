@@ -32,7 +32,7 @@ These are the features planned to be released in future (after current working i
 If you have any ideas of other features, or already created one, Why don't you send a pull request?<br> I would appreciate it!
 
 # Installation
-Installation instructions are comming soon... Stay tuned! until it comes, you can use your own knowledge to use it...
+For instructions, see [Installation Wiki](https://github.com/nk-world/MathSolver/wiki/Installation)
 
 # Support
 For support on anything, create a new issue.
