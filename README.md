@@ -1,4 +1,9 @@
 # Mathematics Solver
+
+<p align="center">
+  <img src="https://github.com/nk-world/MathSolver/blob/main/Pictures/logo.png" />
+</p>
+
 Solve Mathematics problems (Most addition and subtraction). Directly from your Terminal!
 <br>
 This application was developed by me, for those people who love command-line and want to do Calculations in it. Because doing it directly is bit complicated, Its easier with my apps, The Math Solver!
